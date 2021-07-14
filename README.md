@@ -7,7 +7,7 @@ Still learning Bootstrap & Tailwind CSS
 
 #### Contacts
 
-LinkedIn: [andrey.esin](https://linkedin.com/in/andrey.esin)
+LinkedIn: [Herdi Ehza Saputra](https://www.linkedin.com/in/herdi-ehza-saputra-3814ba217/)
 
 Email: [herdiehzasaputra@outlook.com](mailto:herdiehzasaputra@outlook.com)
 
